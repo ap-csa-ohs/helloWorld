@@ -7,8 +7,6 @@ First Coding Assignment For AP CSA
 
 ### Finish the code so when compiled and run it prints
 
-'''
-  Hello World!
-'''
+  `Hello World!`
 
 ### Submit Your Code on GitHub Classroom
